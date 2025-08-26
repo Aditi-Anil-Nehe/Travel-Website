@@ -30,8 +30,8 @@ const Dashboard = () => {
       {/* Header */}
 
       <header className=" d-flex justify-content-center mt-4">
-        <h1 className=" rounded-pill border border-danger font-bold text-center text-dark w-50 ">
-            Plan For Tour </h1>
+        <h1 className=" rounded-pill border border-5 border-danger p-3 font-bold text-center text-dark w-50 ">
+            Plan For Tour🌍✈️ </h1>
         
       </header>
 
