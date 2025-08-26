@@ -91,10 +91,10 @@ const Dashboard = () => {
               <div className="text-center w-100" style={{marginTop:"250px"}}>
                 <h3 className="text-dark">No Tours Left😢🏝️</h3>
                 <button
-                  className="btn btn-primary mt-3"
+                  className="btn btn-danger mt-3 text-light"
                  onClick={refreshCards}
                 >
-                  Refresh
+                  Refresh🔄
                 </button>
               </div>
             )}
